@@ -1,28 +1,41 @@
 {
   "Global": {
+    "By Strain Type": {
+      "Akkermansia muciniphila": {
+        "Live+ Pasteurized strains": {},
+        "Live strains": {}
+      },
+      "Clostridium butyricum / Firmicutes-Based Strains": {},
+      "Roseburia": {},
+      "Pipeline": {
+        "Faecalibacterium prausnitzii": {},
+        "Others (Bacteroides spp. & Others)": {}
+      }
+    },
+    "By Formulation": {
+      "Capsules": {},
+      "Tablets": {},
+      "Powders & granules": {},
+      "Gummies": {},
+      "Others (Liquid Suspensions & Others)": {}
+    },
     "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+      "Single-Strain Products": {},
+      "Multi-Strain Product": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Application": {
+      "Gastrointestinal Health (IBS, IBD, Crohn's Disease, Microbiome Balance & Others)": {},
+      "Immune Modulation (Autoimmune Conditions, Allergy & Others)": {},
+      "Metabolic Disorders (Obesity, Diabetes & Others)": {},
+      "Mental Health / Gut-Brain Axis (Anxiety, Depression, Cognition & Others)": {},
+      "Oncology Support": {},
+      "Others (Women's Health (Vaginal Microbiome, Urogenital Health & Others) & others)": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
-    },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Distribution Channel": {
+      "Online Retail / E-commerce": {},
+      "Supermarkets / Health Stores": {},
+      "Hospital Pharmacies": {},
+      "Retail Pharmacies": {}
     },
     "By Region": {
       "North America": {
